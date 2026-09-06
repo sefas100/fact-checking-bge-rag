@@ -26,7 +26,7 @@ Das Notebook ist für die direkte Ausführung in Google Colab (idealerweise mit 
 1. Öffne das Notebook Fact-Checking.ipynb in Google Colab.
 2. Stelle sicher, dass die GPU-Laufzeit aktiviert ist (Laufzeit -> Laufzeittyp ändern -> GPU).
 3. Führe die ersten Setup-Zellen aus, um die nötigen Bibliotheken zu installieren.
-4. Die Dateien in dem Data-Ordner inkl. des FEVER-Datensatzes müssen base_path vorhanden sein.
+4. Die Dateien in dem Data-Ordner inkl. des FEVER-Datensatzes müssen im base_path vorhanden sein.
 ---
 
 
